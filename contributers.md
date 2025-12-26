@@ -43,5 +43,6 @@
 | Ronak Goyal            | ronakgoyal1             | IIIT Allahabad                                                   |
 | Sayed Al Amaan Zaidi           | amaan1114           | Rishihood University                                   |
 | Roshan Gupta           | roshangupta4804-hue        | IIIT Allahabad  
+| Paarth Arora            | iit2025280-sys            | IIIT Allahabad
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
